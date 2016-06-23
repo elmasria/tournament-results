@@ -5,9 +5,9 @@
 # Required Before Installation
 
 * Have VirtualBox
-	* You can download it from (virtualbox.org)[https://www.virtualbox.org/wiki/Downloads]
+	* You can download it from [virtualbox.org](https://www.virtualbox.org/wiki/Downloads)
 * Have Vagrant
-	* You can download it from (vagrantup.com)[https://www.vagrantup.com/downloads.html]
+	* You can download it from [vagrantup.com](https://www.vagrantup.com/downloads.html)
 * Have VM configuration
 	* Clone / download the configuration
     	* ```git clone https://github.com/udacity/fullstack-nanodegree-vm.git fullstack ```
